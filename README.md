@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first git repo
 <br>
-Author - Saksham Malik
+Author - Saksham Malik(jain)
